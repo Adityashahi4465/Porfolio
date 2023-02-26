@@ -1,17 +1,11 @@
-# Portfolio built with Next JS 12+, React.js, Tailwind CSS, Sendgrid,and  MUI [![LinkedIn](/public//linkedin.png)](https://www.linkedin.com/in/inderjit-shahi-b9880a201/)
-
-<p align="center">
-  <a href="https://port-folio-vxwv.vercel.app/"><img src="public/PortfolioBanner.png" alt="Website banner"></a>
-</p>
+# Portfolio built with Next JS 12+, React.js, Tailwind CSS, Sendgrid and MUI
 
 🚀 Portfolio, the doc editor created in Next.js, ⚡️ Made with developer experience first: Next.js, React.js, Sendgrid, VSCode, Vercel, Material UI.
 
 
 ### DEMO
 
-[![Inderjit Banner](/public/merged.jpg)](https://port-folio-vxwv.vercel.app/)
-
-Check out [live demo](https://port-folio-vxwv.vercel.app/).
+Check out [live demo](https://adityashahi-portfolio.vercel.app/).
 
 ### Features
 
@@ -39,7 +33,7 @@ Built-in feature from Next.js:
 - Contact Me
 - Footer
 
-Find more Projects at [Github Page](https://github.com/inderjitshahi).
+Find more Projects at [Github Page](https://github.com/AdityaShahi4465).
 
 ### Philosophy
 
@@ -58,7 +52,7 @@ Find more Projects at [Github Page](https://github.com/inderjitshahi).
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/inderjitshahi/portfolio my-project-name
+git clone --depth=1 https://github.com/AdityaShahi4465/portfolio my-project-name
 cd my-project-name
 npm install
 ```
