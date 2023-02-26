@@ -52,7 +52,7 @@ Find more Projects at [Github Page](https://github.com/AdityaShahi4465).
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/AdityaShahi4465/portfolio my-project-name
+git clone --depth=1 https://github.com/Adityashahi4465/Porfolio.git my-project-name
 cd my-project-name
 npm install
 ```
@@ -126,12 +126,5 @@ Pro tips: if you need a project wide type checking with TypeScript, you can run 
 
 Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
 
-### License
-
-Licensed under the MIT License, Copyright © 2022
-
-See [LICENSE](LICENSE) for more information.
 
 ---
-
-Made with ♥ by [Inderjit Shahi](https://port-folio-vxwv.vercel.app/) [![LinkedIn](/public//linkedin.png)](https://www.linkedin.com/in/inderjit-shahi-b9880a201/)
