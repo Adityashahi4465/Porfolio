@@ -47,36 +47,20 @@ export default Home;
 export async function getStaticProps(context) {
     const projectDetails = [
         {
+            title: "ISBLog",
+            appUrl: "https://drive.google.com/file/d/1RLSJYw8l48sJK7rJ8ea7uSgru5P_pYrP/view",
+            gitUrl: "https://github.com/Adityashahi4465/ISBLog",
+            image: '/ISBLog-Promo.mp4'
+        },
+        {
             title: "E-ASComplaints",
             webUrl: "https://e-as-complaint-web.vercel.app/#/",
             appUrl: "https://drive.google.com/file/d/1SN5V_c4d26h9QWtSSKGuLWQjqY4GjNKG/view?usp=share_link",
             gitUrl: "https://github.com/Adityashahi4465/E-ASComplaint",
             image: '/ASComplaint_Promo.mp4'
         },
-        {
-            title: "Portfolio",
-            webUrl: "https://port-folio-vxwv.vercel.app/",
-            gitUrl: "https://github.com/inderjitshahi/PortFolio",
-            image: '/is.jpg'
-        },
-        {
-            title: "ISDoc",
-            webUrl: "https://isdoc.vercel.app/",
-            gitUrl: "https://github.com/inderjitshahi/ISDOc",
-            image: '/ISDoc.jpg'
-        },
-        {
-            title: "IS_AirBnB",
-            webUrl: "https://is-air-bn-b.vercel.app/",
-            gitUrl: "https://github.com/inderjitshahi/ISAirBnB",
-            image: '/ISairBnb.jpg'
-        },
-        {
-            title: "ISShop",
-            webUrl: "/404",
-            gitUrl: "https://github.com/inderjitshahi/ISShop",
-            image: '/isshop.jpg'
-        },
+
+
     ];
     const skills = [
         {
@@ -121,7 +105,6 @@ export async function getStaticProps(context) {
             level: '80%'
         },
     ]
-    // console.log(projectDetails);
     return {
         props: { projectDetails, skills }
     }
