@@ -15,7 +15,7 @@ function Profile(props) {
                             <a href='https://www.linkedin.com/in/aditya4465/' target='blank'>
                                 <BsLinkedin />
                             </a>
-                            <a href='https://www.instagram.com/ady_shahi/' target='blank'>
+                            <a href='https://www.instagram.com/aditya_shahi_eng/' target='blank'>
                                 <AiFillInstagram />
                             </a>
                             <a href='https://github.com/Adityashahi4465' target='blank'>
